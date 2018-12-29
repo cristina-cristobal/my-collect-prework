@@ -5,4 +5,5 @@ while i < array.length
   yield(first_names << array[i])
   i += 1
 end
+first_names
 end
